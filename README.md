@@ -5,7 +5,7 @@ Anteriormente he sido estudiante de Producción de Audio, ya que en mi tiempo li
 
 Cuento con un nivel de inglés fluido gracias a un año de estudios en Oregón (Estados Unidos) realizado en 2017, que continué perfeccionando a lo largo de los últimos años (nivel C1 certificado por Cambridge).
 
-👤 Portfolio y CV | [https://sofosbars.netlify.app](https://sofosbars.netlify.app)<br>
+👤 CV y Portfolio | [https://marcosfds.netlify.app](https://marcosfds.netlify.app)<br>
 📩 Contáctame | [mark.musicteam@hotmail.com](mailto:mark.musicteam@hotmail.com)
 
 
