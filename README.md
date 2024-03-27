@@ -1,7 +1,7 @@
 # Sobre mí:
-Estudiante en prácticas del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web de la universidad U-Tad (Las Rozas de Madrid).
+Estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web de la universidad U-Tad (Las Rozas de Madrid).
 
-Mi intención seguir formándome en este sector y poder aportar valor real a la sociedad mediante la búsqueda de soluciones a problemas cotidianos.
+Actualmente cursando prácticas en la consultora tecnológica multinacional [NEORIS](https://neoris.com/es/).
 
 Nivel de inglés fluido gracias a un año de estudios en Oregón (Estados Unidos) realizado en 2017, que continué perfeccionando a lo largo de los últimos años (nivel C1 certificado por Cambridge).
 
