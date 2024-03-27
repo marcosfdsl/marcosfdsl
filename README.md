@@ -1,9 +1,9 @@
 # Sobre mí:
-Mi nombre es Marcos, tengo 22 años y actualmente estoy estudiando un grado superior en Desarrollo de Aplicaciones Web.
+Estudiante en prácticas del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web de la universidad U-Tad (Las Rozas de Madrid).
 
-Anteriormente he sido estudiante de Producción de Audio, ya que en mi tiempo libre me dedico a la música. También cuento con una amplia experiencia en hostelería y atención al cliente.
+Mi intención seguir formándome en este sector y poder aportar valor real a la sociedad mediante la búsqueda de soluciones a problemas cotidianos.
 
-Cuento con un nivel de inglés fluido gracias a un año de estudios en Oregón (Estados Unidos) realizado en 2017, que continué perfeccionando a lo largo de los últimos años (nivel C1 certificado por Cambridge).
+Nivel de inglés fluido gracias a un año de estudios en Oregón (Estados Unidos) realizado en 2017, que continué perfeccionando a lo largo de los últimos años (nivel C1 certificado por Cambridge).
 
 👤 CV y Portfolio | [marcosfs.es](https://marcosfs.es)<br>
 📩 Contáctame | [mark.musicteam@hotmail.com](mailto:mark.musicteam@hotmail.com)
