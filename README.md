@@ -18,9 +18,6 @@ Nivel de inglés fluido gracias a un año de estudios en Oregón (Estados Unidos
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) <br>
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-# 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=marcosfdsl&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcosfdsl&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfdsl&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br />
 
 [![](https://visitcount.itsvg.in/api?id=marcosfdsl&label=Visitas%20al%20perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
